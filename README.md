@@ -36,8 +36,7 @@
 ![TYPESCRIPT](https://shields.io/badge/TypeScript-0D1117?logo=TypeScript&logoColor=FFF&style=flat-square)&nbsp;
 ![MONGODB](https://img.shields.io/badge/MongoDB-0D1117?style=flat-square&logo=mongodb&logoColor=49A248)&nbsp;
 ![WORDPRESS](https://img.shields.io/badge/WordPress-0D1117?style=flat-square&logo=wordpress&logoColor=49A248)&nbsp;
-![REACT NATIVE](https://img.shields.io/badge/ReactNative-0D1117?style=flat-square&logo=react&logoColor=49A248)&nbsp;
-
+![TAILWIND](https://img.shields.io/badge/tailwindcss-0D1117?style=flat-square&logo=tailwindcss)&nbsp;
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=48d1cc&height=120&section=footer"/>
