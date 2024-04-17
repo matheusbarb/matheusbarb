@@ -29,6 +29,7 @@
 ![REACT](https://img.shields.io/badge/-ReactJs-0D1117?logo=react&logoColor=white&style=for-the-badge)&nbsp;
 ![NODE](https://img.shields.io/badge/-NodeJs-0D1117?style=for-the-badge&logo=nodedotjs&logoColor=4FC08D)&nbsp;
 ![PHP](https://img.shields.io/badge/-php-0D1117?style=for-the-badge&logo=php&logoColor=purple&labelColor=0D1117)&nbsp;
+![NEXT](https://img.shields.io/badge/-NextJs-0D1117?style=for-the-badge&logo=nextdotjs&logoColor=purple&labelColor=0D1117)&nbsp;
 <br>
 <br>
 ### I’m studying 📚
