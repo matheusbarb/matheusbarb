@@ -28,7 +28,6 @@
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![REACT](https://img.shields.io/badge/-ReactJs-0D1117?logo=react&logoColor=white&style=for-the-badge)&nbsp;
 ![NODE](https://img.shields.io/badge/-NodeJs-0D1117?style=for-the-badge&logo=nodedotjs&logoColor=4FC08D)&nbsp;
-![PHP](https://img.shields.io/badge/-php-0D1117?style=for-the-badge&logo=php&logoColor=purple&labelColor=0D1117)&nbsp;
 ![NEXT](https://img.shields.io/badge/-NextJs-0D1117?style=for-the-badge&logo=nextdotjs&logoColor=purple&labelColor=0D1117)&nbsp;
 <br>
 <br>
@@ -37,6 +36,7 @@
 ![TYPESCRIPT](https://shields.io/badge/TypeScript-0D1117?logo=TypeScript&logoColor=FFF&style=flat-square)&nbsp;
 ![MONGODB](https://img.shields.io/badge/MongoDB-0D1117?style=flat-square&logo=mongodb&logoColor=49A248)&nbsp;
 ![WORDPRESS](https://img.shields.io/badge/WordPress-0D1117?style=flat-square&logo=wordpress&logoColor=49A248)&nbsp;
+![PHP](https://img.shields.io/badge/-php-0D1117?style=for-the-badge&logo=php&logoColor=purple&labelColor=0D1117)&nbsp;
 ![TAILWIND](https://img.shields.io/badge/tailwindcss-0D1117?style=flat-square&logo=tailwindcss)&nbsp;
 
 
